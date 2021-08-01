@@ -1,0 +1,2 @@
+rootProject.name = "Training View Model"
+include ':app'
